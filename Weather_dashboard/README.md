@@ -24,4 +24,4 @@ To get started with the project, first clone the repository to your local machin
 ```bash
 
 git clone https://github.com/Er-Ayush-DU/Weather_dashboard.git
-cd weather-dashboard
+cd Weather_dashboard
