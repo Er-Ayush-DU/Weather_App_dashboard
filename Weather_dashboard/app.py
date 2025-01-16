@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 API_KEY = "1a346bd29e6e2bc30b511bbaf33b3513"  
